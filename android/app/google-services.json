@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052988437099",
+    "project_id": "edustar-600b0",
+    "storage_bucket": "edustar-600b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052988437099:android:2ea75d2ae8f9813dc7372e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052988437099-uabc9f99af60f081rk6e1gf6facielj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSp_Kn-aavSX5U1TDp7e76r4Lc_BGS3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052988437099-uabc9f99af60f081rk6e1gf6facielj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
