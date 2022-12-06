@@ -1,4 +1,4 @@
-# Responsive Welcome, Login, and Sign up page (Calculate Score)
+# Responsive Welcome, Login, and Sign up page + Firebase auth (Calculate Score)
 
 
 
